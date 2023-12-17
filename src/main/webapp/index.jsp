@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/styles.css">
 
-    <title>Proyecto Integrador Front | Grupo 1 cac java</title>
+    <title>Proyecto Integrador Front | Grupo 1 CAC java</title>
 </head>
 
 <body>
@@ -73,20 +73,20 @@
             <div class="col-12 col-lg-6 placeAndDate__img"></div>
             <div class="col-12 col-lg-6 placeAndDate__info d-flex flex-column align-items-center align-items-lg-start text-center text-lg-start">
                 <h2 class="mb-4">Bs As - Octubre</h2>
-                <p class="mb-4">Buenos Aires es la provincia y localidad más grande del estado de Argentina, en los Estados Unidos, Honolulu es la más sureña de entre las principales ciudades estadounidenses. Aunque el nombre de Honolulu se refiere al área urbana en la costa sureste de la isla de Oahu, la ciudad y el condado de Honolulu han formado una ciudad-condado consolidada que cubre toda la ciudad (aproximadamente 600 km<sup>2</sup> de superficie).</p>
-                <a href="./pages/404.html" class="buttons transparentBtn p-2">Conocé más</a>
+                <p class="mb-4">Buenos Aires es la provincia y localidad mï¿½s grande del estado de Argentina, en los Estados Unidos, Honolulu es la mï¿½s sureï¿½a de entre las principales ciudades estadounidenses. Aunque el nombre de Honolulu se refiere al ï¿½rea urbana en la costa sureste de la isla de Oahu, la ciudad y el condado de Honolulu han formado una ciudad-condado consolidada que cubre toda la ciudad (aproximadamente 600 km<sup>2</sup> de superficie).</p>
+                <a href="./pages/404.html" class="buttons transparentBtn p-2">Conocï¿½ mï¿½s</a>
             </div>
         </section>
         <section id="speakerForm" class="text-center col-lg-6 offset-lg-3">
-            <h2 class="speakerForm__h2"><div>CONVIÉRTETE EN UN</div>ORADOR</h2>
-            <p>Anótate como orador para dar una <span>charla ignate</span>. ¡Cuéntanos de qué quieres hablar!</p>
+            <h2 class="speakerForm__h2"><div>CONVIï¿½RTETE EN UN</div>ORADOR</h2>
+            <p>Anï¿½tate como orador para dar una <span>charla ignate</span>. ï¿½Cuï¿½ntanos de quï¿½ quieres hablar!</p>
             <form action="" class="speakerForm__form text-start">
                 <div class="d-flex flex-column flex-lg-row gap-lg-5">
                     <input type="text" id="nombre" name="nombre" placeholder="Nombre" class="my-3 w-100 p-3">
                     <input type="text" id="apellido" name="apellido" placeholder="Apellido" class="my-3 w-100 p-3">
                 </div>
-                <textarea name="" id="" class="w-100 mt-3">Sobre qué quieres hablar?</textarea>
-                <p>Recuerda incluir un título para tu charla</p>
+                <textarea name="" id="" class="w-100 mt-3">Sobre quï¿½ quieres hablar?</textarea>
+                <p>Recuerda incluir un tï¿½tulo para tu charla</p>
                 <input type="submit" value="Enviar" class="w-100 buttons speakerForm__form__btn mt-3">
             </form>
         </section>
